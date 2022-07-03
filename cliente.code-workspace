@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "cliente"
+		},
+		{
+			"name": "eureka-server",
+			"path": "eureka-server"
+		},
+		{
+			"name": "gateway",
+			"path": "gateway"
+		},
+		{
+			"name": "informacoes",
+			"path": "informacoes"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
